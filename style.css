@@ -112,3 +112,6 @@ input, select{
 
 }
 
+button{
+    cursor: pointer;
+}
