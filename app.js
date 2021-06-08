@@ -88,7 +88,7 @@ FoodLovers.prototype.tableFill = function () {
 //     let tableEl = document.getElementById('myTable');
 //     let removedItem = document.getElementsByTagName('tr');
 //     tableEl.deleteRow(event.parentNode.rowIndex);
-}
+//}
 
 function setInlocalStorage() {
     let data = JSON.stringify(orders);
